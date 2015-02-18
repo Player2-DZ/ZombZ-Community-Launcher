@@ -1,0 +1,10 @@
+c:\users\lupo\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ZombZ.net Launcher.exe.config
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ZombZ.net Launcher.exe
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ZombZ.net Launcher.pdb
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ZombZ.net Launcher.xml
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ZombZLauncher.ZombZLauncher.resources
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ZombZLauncher.Resources.resources
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ZombZ.net Launcher.exe
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ZombZ.net Launcher.xml
+C:\Users\Lupo\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ZombZ.net Launcher.pdb
