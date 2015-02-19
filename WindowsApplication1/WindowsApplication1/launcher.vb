@@ -49,7 +49,7 @@
     End Sub
 
     Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
-        Dim url As String = "ts3server://TS3.ZOMBZ.NET/?port=9172&nickname=Zombz Guest"
+        Dim url As String = "ts3server://TS3.ZOMBZ.NET/?port=9172&nickname=ZombZ Launcher Guest"
 
         Process.Start(url)
     End Sub
